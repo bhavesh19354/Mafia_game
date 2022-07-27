@@ -1,4 +1,4 @@
-# Mafia_game
+# MAFIA GAME
 # DOCUMENTATION
 
 ---
